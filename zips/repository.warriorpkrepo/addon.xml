@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.warriorpkrepo" name="warriorpk repo" version="0.0.1" provider-name="warriorpk">
+	<extension point="xbmc.addon.repository" name="warriorpk repo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/warriorpk/repository.warriorpkrepo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/warriorpk/repository.warriorpkrepo/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/warriorpk/repository.warriorpkrepo/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Just testing the repo creation and addons</summary>
+		<description lang="en">Nothing specific</description>
+		<genre>livetv,movies,asian,indian</genre>
+	</extension>
+</addon>
